@@ -25,13 +25,13 @@ python依赖库：
 ### 配置说明
 
 
-开启测试服务器：
+1、开启测试服务器：
 
 切换到Student_Dormitory目录下，执行命令python manage.py runserver，然后不要关闭命令窗口。
 
 ![标题: fig:](https://s2.loli.net/2022/03/02/ltWfe6nCsOzF3D2.png)
 
-进入管理界面：
+2、进入管理界面：
 
 在浏览器中输入http://localhost/admin/ ，进入管理员登录界面。
 
@@ -49,6 +49,6 @@ python依赖库：
 
 在浏览器中输入http://localhost/login.html ，进入业务系统界面。输入刚才查看的用户名和密码登录，系统会自动识别用户身份对应到学生，宿舍管理员。之后便可进行操作。
 
-退出系统：
+3、退出系统：
 
 在命令行中按Ctrl+C即可退出。
