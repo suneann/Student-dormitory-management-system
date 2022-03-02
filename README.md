@@ -24,23 +24,6 @@ python依赖库：
 
 ### 配置说明
 
-Windows环境搭建：
-
-1. 下载python3最新的安装包进行安装（点下一步的时候注意，除了debug相关的都勾上，千万要把pip的勾上，还有加入PATH路径的选项也勾上）
-2.   打开管理员权限的命令行，pip install django
-
-Linux环境搭建：
-
-1. 一般发行版都有自带python，但是较老的发行版自带的是python2，所以需要安装python3，各个发行版的包管理工具（比如yum、dnf、apt-get、emerge、pacman等）都不同，根据情况决定，实在不行了到官方下源码包编译。
-2.  sudo pip install django 
-
-注意：
-
-由于pip命令需要到国外网站下载包，可能会失败，所以要么翻墙之后执行，要么失败之后再多执行几次。
-
-以下所有命令都需要在命令行中切换到Student_Dormitory目录执行。
-
-cd Student_Dormitory
 
 开启测试服务器：
 
