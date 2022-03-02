@@ -50,7 +50,7 @@ cd Student_Dormitory
 
 进入管理界面：
 
-在浏览器中输入http://localhost/admin/，进入管理员登录界面。
+在浏览器中输入http://localhost/admin/ ，进入管理员登录界面。
 
 ![img](https://s2.loli.net/2022/03/02/CY3cSh1x7KwbMAz.png)
 
@@ -64,7 +64,7 @@ cd Student_Dormitory
 
 ![img](https://s2.loli.net/2022/03/02/wbGZIe5svqfa9WC.png)
 
-在浏览器中输入http://localhost/login.html，进入业务系统界面。输入刚才查看的用户名和密码登录，系统会自动识别用户身份对应到学生，宿舍管理员。之后便可进行操作。
+在浏览器中输入http://localhost/login.html ，进入业务系统界面。输入刚才查看的用户名和密码登录，系统会自动识别用户身份对应到学生，宿舍管理员。之后便可进行操作。
 
 退出系统：
 
